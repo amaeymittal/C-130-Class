@@ -1,0 +1,37 @@
+.heading{
+    font-size: 23px;
+    width:100%;
+    margin:0
+}
+.note{
+    font-size: 15px;
+    color:black;
+}
+.div_speed{
+    float:left;
+}
+.div_speed_img{
+    width:200px;
+    border-radius: 100px;
+
+}
+#speed_label{
+    font-size:23px;
+    margin:15px;
+}
+.div_volume{
+    float:right;
+}
+#volume_label{
+    font-size:23px;
+    margin:15px;
+}
+.button{
+    font-size:25px;
+    width:130px;
+}
+canvas{
+    border:2px solid white;
+    border-radius:20px;
+    
+}
